@@ -1,0 +1,22 @@
+section .data
+
+section .text
+global main
+
+main:
+
+    xor eax, 0
+    xor ebx, 0
+    xor ecx, 0
+
+    mov eax, 45
+    mov ebx, 2
+    DIV ebx
+
+    mov ecx, eax
+
+    mov eax, 40
+    mul ecx
+
+    mov ebx, 78
+    ADD eax, ebx

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Interface
+comment1.params=
+comment1.target=Interface()
+comment2.params=
+comment2.target=void\ exibirJanela()
+comment2.text=\r\n\ Executado\ para\ inicializar\ o\ frame\r\n
+comment3.params=
+comment3.target=void\ inicializar()
+comment3.text=\r\n\ Insere\ os\ controles\ na\ janela\r\n
+comment4.params=evento
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ Controlador\ de\ eventos\ de\ bot\u00E3o\r\n
+comment5.params=quantidade
+comment5.target=void\ resetarSoldados(int)
+comment6.params=indice
+comment6.target=void\ matarSoldado(int)
+comment7.params=indice
+comment7.target=void\ tornarSoldadoSobrevivente(int)
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=a
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ a\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=b\ a
+comment1.target=void\ f(float,\ java.lang.Integer[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

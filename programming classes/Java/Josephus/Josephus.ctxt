@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Josephus
+comment0.text=\r\n\ Implementa\u00E7\u00E3o\ do\ problema\ de\ Josephus.\r\n\ \r\n\ @author\ Fernando\ Fonseca,\ Jolie\ Caldarone,\ Rafael\ Ferrari\r\n\ @version\ 0.2\ 20190611\r\n
+comment1.params=
+comment1.target=Josephus()
+comment2.params=tamanho
+comment2.target=void\ inserirSoldados(int)
+comment3.params=
+comment3.target=void\ mostrarSoldadosVivos()
+comment4.params=k\ tamanho
+comment4.target=int[]\ problemaJosephus(int,\ int)
+numComments=5

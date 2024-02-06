@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ListaLigada
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ ListaLigada\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=ListaLigada()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ ListaLigada\r\n
+comment2.params=
+comment2.target=boolean\ verificarListaVazia()
+comment3.params=item
+comment3.target=void\ inserirInicio(java.lang.Object)
+comment4.params=item
+comment4.target=void\ inserirFim(java.lang.Object)
+comment5.params=
+comment5.target=Celula\ removerInicio()
+comment6.params=
+comment6.target=Celula\ removerFim()
+comment7.params=
+comment7.target=void\ mostrar()
+numComments=8

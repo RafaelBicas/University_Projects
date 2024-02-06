@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=IListaDuplamenteLigadaCircular
+comment0.text=\r\n\ Contem\ assinaturas\ do\ metodos\ da\ TAD\ Lista\ Duplamente\ Ligada\ Circular\r\n\ \r\n\ @author\ Julio\ Arakaki,\ Fernando\ Fonseca,\ Jolie\ Caldarone,\ Rafael\ Ferrari\r\n\ @version\ 20190527\r\n
+comment1.params=
+comment1.target=boolean\ estaVazia()
+comment2.params=novo
+comment2.target=void\ inserirInicio(java.lang.Object)
+comment3.params=novo
+comment3.target=void\ inserirFim(java.lang.Object)
+comment4.params=chave\ novo
+comment4.target=boolean\ inserirApos(int,\ java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ removerInicio()
+comment6.params=
+comment6.target=java.lang.Object\ removerFim()
+comment7.params=chave
+comment7.target=java.lang.Object\ removerPelaChave(int)
+numComments=8

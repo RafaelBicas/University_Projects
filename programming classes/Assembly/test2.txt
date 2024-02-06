@@ -1,0 +1,18 @@
+section .data
+
+section .text
+global main
+
+main:
+
+    xor eax, 0
+    xor ebx, 0
+    xor ecx, 0
+
+    mov ecx, 100
+    mov eax, 1300
+    mov ebx, 40
+    ;int 10h
+    
+    DIV ebx
+    ADD eax,ecx
