@@ -1,0 +1,23 @@
+section .data
+
+section .text
+global main
+
+main:
+    mov ebp, esp; for correct debugging
+    xor eax, 0
+    xor ebx, 0
+    xor ecx, 0
+
+    mov eax, 100
+    mov ebx, 4
+    mov ecx, 20
+
+
+    MUL ebx
+    DIV ecx
+    
+    mov ebx, 300
+    mov ecx, 100
+    SUB ebx, ecx
+    MUL ebx

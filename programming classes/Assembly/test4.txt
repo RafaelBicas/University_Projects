@@ -1,0 +1,22 @@
+section .data
+
+section .text
+global main
+
+main:
+    mov ebp, esp; for correct debugging
+    xor eax, 0
+    xor ebx, 0
+    xor ecx, 0
+
+    mov eax, 30
+    mov ebx, 10
+    mov ecx, 2
+
+    MUL ebx
+    mov ebx,eax
+    mov eax, 50
+    MUL ecx
+    ADD eax, ebx
+
+    mov eax, eax
